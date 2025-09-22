@@ -14,9 +14,20 @@ I saw in some code "INPUT_PULLUP" was used. It requires connection in another wa
 
 <img width="526" height="567" alt="image" src="https://github.com/user-attachments/assets/88b65abc-abf0-43c6-a478-697323939c3e" />
 
-I tried to connect 5 buttons to the digital pins that gives me a [five key piano](https://www.youtube.com/shorts/UPWsGzkG6_s)
-
-
+I tried to connect 5 buttons to the digital pins that gives me a [VIDEO: five key piano](https://www.youtube.com/shorts/UPWsGzkG6_s)
+You can play songs with only 5 notes like À la Claire Fontaine all right with it.
+Since we are a school of the arts, it has to do more than that. So we can change the note map to make it other pentatonic music, like: Amazing Grace, or the Jasmine Flower.
+```
+// Musical notes for each button (C5, D5, E5, G5, A5)
+const int notes[] = {
+  NOTE_C5,  // D7 button
+  NOTE_D5,  // D6 button  
+  NOTE_E5,  // D5 button
+  NOTE_G5,  // D4 button
+  NOTE_A5   // D3 button
+};
+```
+[A pentagonic piano ]( https://www.youtube.com/shorts/3a1f_Sgb6Dc)
 
 
 
