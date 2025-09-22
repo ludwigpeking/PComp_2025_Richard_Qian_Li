@@ -1,5 +1,17 @@
 # PComp_2025_Richard_Qian_Li
 
+
+## week 3
+
+I saw in some code "INPUT_PULLUP" was used. It requires connection in another way which took me a while to understand.
+
+I tried to connect 5 buttons to the digital pins that gives me a [five key piano](https://www.youtube.com/shorts/UPWsGzkG6_s)
+
+
+
+
+
+
 ## week 1
 I am thrilled to finally have the chance to explore some hardware skills, which I never tried on.
 
