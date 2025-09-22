@@ -27,7 +27,7 @@ const int notes[] = {
   NOTE_A5   // D3 button
 };
 ```
-[A pentagonic piano ]( https://www.youtube.com/shorts/3a1f_Sgb6Dc)
+[Video : A pentagonic piano ]( https://www.youtube.com/shorts/3a1f_Sgb6Dc)
 
 
 
