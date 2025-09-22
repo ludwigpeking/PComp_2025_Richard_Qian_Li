@@ -4,6 +4,15 @@
 ## week 3
 
 I saw in some code "INPUT_PULLUP" was used. It requires connection in another way which took me a while to understand.
+```
+    pinMode(buttonPins[i], INPUT_PULLUP);
+```
+
+<img width="1755" height="753" alt="5key_piano_PULLUP" src="https://github.com/user-attachments/assets/d60a5ad7-50f7-434f-b25f-b5c748e2b7d3" />
+
+
+
+<img width="526" height="567" alt="image" src="https://github.com/user-attachments/assets/88b65abc-abf0-43c6-a478-697323939c3e" />
 
 I tried to connect 5 buttons to the digital pins that gives me a [five key piano](https://www.youtube.com/shorts/UPWsGzkG6_s)
 
