@@ -2,7 +2,11 @@
 
 ## week 4
 
+### Mid-term Concept
+
 <img width="2388" height="1668" alt="Weixin Image_20250930152239_17_2" src="https://github.com/user-attachments/assets/ff0187a7-260c-4ce4-b9ab-2689df420c29" />
+the images below are from: geo bruce
+https://www.instructables.com/member/geo+bruce/
 
 ![FBNN0RKGPBD4JQV](https://github.com/user-attachments/assets/3c7ee525-8506-43af-a50a-6f7823378fcb)
 
